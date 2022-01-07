@@ -1,5 +1,5 @@
 ![TeamCal Neo Legacy](https://github.com/glewe/teamcal-neo-legacy/raw/master/src/images/icons/logo-72.png)
-# TeamCal Neo 
+# TeamCal Neo Legacy
 [![PHP](https://img.shields.io/badge/Language-PHP-8892BF.svg)](https://www.php.net/)
 ![Support](https://img.shields.io/badge/Support-End%20of%20life-critical.svg)
 
